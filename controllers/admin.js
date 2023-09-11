@@ -46,8 +46,8 @@ exports.getProducts = (req, res, next) => {
     //     price: 19.99,
     //     userId: {
     //       _id: new ObjectId("643d788b766004f0e0226739"),
-    //       name: 'nidhi',
-    //       email: 'nidhi@gmail.com'
+    //       name: 'dipesh',
+    //       email: 'dipesh@gmail.com'
     //     }
     //   }
     // ]
